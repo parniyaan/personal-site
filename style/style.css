@@ -82,6 +82,7 @@ body {
     }
 
     main {
+        padding: 0 50px;
 
         #home {
             display: flex;
